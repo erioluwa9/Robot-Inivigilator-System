@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "botnica-1580825604108",
+  "private_key_id": "67e7918355bacb4d12948b92336637c8147c4861",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrXuUla8xS5im/\n7QioKhkCZCUOGON8tHv75nW5pFOhXoUdAVpK5mohoSiUG1bg5Iwx+EiyJh47/Dgn\no+1nWaSozo4BMZolrn1Ps1bQ+FzimbQWX2clg24Q3U1c1Mbx/51ILaRMTWTh5Kze\nzq2JxzT2e86ltbcKbwTvDo6uwt0C3EkRLQyQApNYGhoBqAHrWSRbCAgzwY72koDT\n7FmT2ey+8XBsG+Vcz7APRBC1UMznxedz9DNwLuHD0c5L2RVL6DJ6mImZ89Zq6pkS\nJfMQg0PYt9sZrdSYSEVeJK7wwICUvZMLmm8eXR9JPzbxptXC58m5DamHaxMiPdiE\nWL3dGZYnAgMBAAECggEAAJbINAPFCyAQUq6hKuqQDXV6skJVr2Y0OTkmakSDARBf\nfOcX9sAE2/ivRU+cNAveXfGlHO0DflrvOQor+eo7g0ChElexbw60uZJVUUiN0vNX\nhAbRF0Lw75HeM7FEni5pkliq5JX8/qO32wbhYErjUwqURc3im2ATvxVmPgG2098A\nBUK7Je8FrVGiHfksCESuIDBRa3I31GY1T7q4XwDyOAkNsPvE19RqNZhx13bFX/QR\nZBqkKmdLaUP74tn2VyIxRd+oLY8OSANPZ2SmNuOS6DzVz0MNbnjG9yaIUTGjDZlJ\nI6BoJz02bxhCfJohxcWCT/h/DE50wyBSJdTidpywYQKBgQD5d5OwgxVPMeVFNVbL\n65LFHsymOjZjYLKZqmk/jfJY2elIrDBKx3pL9EkoikGsvAtlT9bdY5VM4YqMTQk8\nxoVYFLm+SI0lIPt9dlVC+p5nj9L20kcIp2T35//lstCK0sso6CmlyydDHeT1J0di\nnHhSEUO0I/RKrZV7ZPiu2HvV4wKBgQDxiNDqn2SCDk6v8uPvEWT5+fpu1KVGuCgo\n0gxPhvhmp7qIePU9jSBBv2ws/mU7IzuIHdH9APRoTV5vhUrdDeuVnJ0nFCiAypJc\nEl3JyCz7zGsP1aplqMHW8K77nsocagDfWTjvV1J3yX1Acf4VpG9WIEheSCPxsWfv\nncOAMaWR7QKBgQCPdqX3l5rUnXQlVeRhh0szk1/LpKSMiBqN5oN6ai5ZzI+tHGD1\nUDxTm9vKtZ/JL6c6Dy0YymEdAoPD5bWPPveGTPz4og6RsKMQZtHnn+si0YJYMVtq\nbaHSM5hlR21IuKrfDoyM7QTaQ0HdfkY+Po+vWoBeA2NE4wiZGtss6hBlUwKBgQDg\nFXDN2+chiiiSsKOrbtXh3XvsSzizLbOEe6uUNMJMaxxx9NaBrmbY2MGB1NsSTJO0\nqwXg1nvqMK2GhYF5KKsCePSMBvW01zuGVDvTMvYY/gPuAus9uZ1szotpQl58khQR\nIvPhiYAnRjYADkIOzinFG9pILmG6oD6vXgy86FKV2QKBgCEt6Xr9UHAjPR321XNM\n7QAAAeeXIZe0OYfkoMi5cVNlPTf0EK3ktpIGFiNqHe9gXJDiRbkfqIVyqjQ/UEMd\ngDXNWIwUNrysk5yVGXuxEx89CQOGooHiu1NN2fQNSMh0kGzFpuPaQiFT7Xx+A05o\nMaCUzFr5hFXenH5QcO8WTXGc\n-----END PRIVATE KEY-----\n",
+  "client_email": "botnica@botnica-1580825604108.iam.gserviceaccount.com",
+  "client_id": "105901989857827871570",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botnica%40botnica-1580825604108.iam.gserviceaccount.com"
+}
